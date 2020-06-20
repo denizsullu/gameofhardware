@@ -42,7 +42,7 @@
             this.label1.BackColor = System.Drawing.Color.Transparent;
             this.label1.Font = new System.Drawing.Font("Microsoft YaHei", 19.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.label1.ForeColor = System.Drawing.Color.Black;
-            this.label1.Location = new System.Drawing.Point(219, 25);
+            this.label1.Location = new System.Drawing.Point(227, 9);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(332, 44);
             this.label1.TabIndex = 0;
@@ -55,7 +55,7 @@
             this.testbutton.BackColor = System.Drawing.SystemColors.ButtonHighlight;
             this.testbutton.Font = new System.Drawing.Font("Microsoft YaHei", 12F, System.Drawing.FontStyle.Bold);
             this.testbutton.ForeColor = System.Drawing.Color.CornflowerBlue;
-            this.testbutton.Location = new System.Drawing.Point(40, 247);
+            this.testbutton.Location = new System.Drawing.Point(493, 227);
             this.testbutton.Name = "testbutton";
             this.testbutton.Size = new System.Drawing.Size(256, 56);
             this.testbutton.TabIndex = 1;
@@ -69,7 +69,7 @@
             this.label2.BackColor = System.Drawing.Color.Transparent;
             this.label2.Font = new System.Drawing.Font("Candara", 16.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label2.ForeColor = System.Drawing.Color.DarkBlue;
-            this.label2.Location = new System.Drawing.Point(115, 84);
+            this.label2.Location = new System.Drawing.Point(115, 62);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(552, 35);
             this.label2.TabIndex = 2;
@@ -80,7 +80,7 @@
             this.eslestirmebutton.BackColor = System.Drawing.SystemColors.ButtonHighlight;
             this.eslestirmebutton.Font = new System.Drawing.Font("Microsoft YaHei", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.eslestirmebutton.ForeColor = System.Drawing.Color.CornflowerBlue;
-            this.eslestirmebutton.Location = new System.Drawing.Point(40, 157);
+            this.eslestirmebutton.Location = new System.Drawing.Point(493, 134);
             this.eslestirmebutton.Name = "eslestirmebutton";
             this.eslestirmebutton.Size = new System.Drawing.Size(256, 56);
             this.eslestirmebutton.TabIndex = 3;
@@ -93,7 +93,7 @@
             this.yerlestirmebutton.BackColor = System.Drawing.SystemColors.ButtonHighlight;
             this.yerlestirmebutton.Font = new System.Drawing.Font("Microsoft YaHei", 12F, System.Drawing.FontStyle.Bold);
             this.yerlestirmebutton.ForeColor = System.Drawing.Color.CornflowerBlue;
-            this.yerlestirmebutton.Location = new System.Drawing.Point(40, 334);
+            this.yerlestirmebutton.Location = new System.Drawing.Point(493, 331);
             this.yerlestirmebutton.Name = "yerlestirmebutton";
             this.yerlestirmebutton.Size = new System.Drawing.Size(256, 56);
             this.yerlestirmebutton.TabIndex = 4;
@@ -106,7 +106,7 @@
             this.button1.BackColor = System.Drawing.Color.White;
             this.button1.Font = new System.Drawing.Font("Microsoft Tai Le", 7.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button1.ForeColor = System.Drawing.Color.CornflowerBlue;
-            this.button1.Location = new System.Drawing.Point(661, 396);
+            this.button1.Location = new System.Drawing.Point(661, 414);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(127, 42);
             this.button1.TabIndex = 5;

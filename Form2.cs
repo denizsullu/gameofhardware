@@ -12,6 +12,7 @@ namespace deniz
 {
     public partial class Form2 : Form
     {
+        Form1 form1;
         public Form2()
         {
             InitializeComponent();
@@ -40,6 +41,14 @@ namespace deniz
         private void label2_Click(object sender, EventArgs e)
         {
 
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            form1 = new Form1();
+            form1.Show();
+            this.Hide();
+            
         }
     }
 }

@@ -14,6 +14,7 @@ namespace deniz
     {
         Form2 form2;
         Form3 form3;
+        Form4 form4;
         public Form1()
         {
             InitializeComponent();
@@ -31,23 +32,28 @@ namespace deniz
         {
 
         }
-        private void yerlestirmebutton_Click(object sender, EventArgs e)
+        private void yerlestirmebutton_Click(object sender, EventArgs e)//yerlestirme butonuna basildiğinda gerceklesecek islemler.
         {
-            form3 = new Form3();
-            form3.Show();
+            form3 = new Form3();//yeni form acilir.
+            form3.Show();//form gösterilir.
+            this.Hide();//su an bulunan form gizlenir.
         }
 
 
-        private void testbutton_Click(object sender, EventArgs e)
+        private void testbutton_Click(object sender, EventArgs e)//test butonuna bastiginda gerceklesecek islemler.
         {
+            form4 = new Form4();
+            form4.Show();
+            this.Hide();
 
         }
 
 
-        private void button1_Click_1(object sender, EventArgs e)
+        private void button1_Click_1(object sender, EventArgs e)//hazirlayanalr butonu.
         {
             form2 = new Form2();
             form2.Show();
+            this.Hide();
         }
     }
 }
