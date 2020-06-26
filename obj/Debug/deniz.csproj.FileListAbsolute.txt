@@ -1,0 +1,123 @@
+C:\Users\Ceso\source\repos\deniz\deniz\bin\Debug\deniz.exe.config
+C:\Users\Ceso\source\repos\deniz\deniz\bin\Debug\deniz.exe
+C:\Users\Ceso\source\repos\deniz\deniz\bin\Debug\deniz.pdb
+C:\Users\Ceso\source\repos\deniz\deniz\obj\Debug\deniz.csprojAssemblyReference.cache
+C:\Users\Ceso\source\repos\deniz\deniz\obj\Debug\deniz.Form1.resources
+C:\Users\Ceso\source\repos\deniz\deniz\obj\Debug\deniz.Properties.Resources.resources
+C:\Users\Ceso\source\repos\deniz\deniz\obj\Debug\deniz.csproj.GenerateResource.cache
+C:\Users\Ceso\source\repos\deniz\deniz\obj\Debug\deniz.csproj.CoreCompileInputs.cache
+C:\Users\Ceso\source\repos\deniz\deniz\obj\Debug\deniz.exe
+C:\Users\Ceso\source\repos\deniz\deniz\obj\Debug\deniz.pdb
+C:\Users\Ceso\source\repos\deniz\deniz\obj\Debug\deniz.Form2.resources
+C:\Users\Ceso\source\repos\deniz\deniz\obj\Debug\deniz.Form3.resources
+C:\Users\Ceso\source\repos\deniz\deniz\obj\Debug\deniz.Form4.resources
+C:\Users\Ceso\source\repos\deniz\deniz\obj\Debug\deniz.Form5.resources
+C:\Users\deniz\Desktop\Deniz\deniz\deniz\bin\Debug\deniz.exe.config
+C:\Users\deniz\Desktop\Deniz\deniz\deniz\bin\Debug\deniz.exe
+C:\Users\deniz\Desktop\Deniz\deniz\deniz\bin\Debug\deniz.pdb
+C:\Users\deniz\Desktop\Deniz\deniz\deniz\obj\Debug\deniz.csprojAssemblyReference.cache
+C:\Users\deniz\Desktop\Deniz\deniz\deniz\obj\Debug\deniz.Form1.resources
+C:\Users\deniz\Desktop\Deniz\deniz\deniz\obj\Debug\deniz.Form2.resources
+C:\Users\deniz\Desktop\Deniz\deniz\deniz\obj\Debug\deniz.Form3.resources
+C:\Users\deniz\Desktop\Deniz\deniz\deniz\obj\Debug\deniz.Form4.resources
+C:\Users\deniz\Desktop\Deniz\deniz\deniz\obj\Debug\deniz.Form5.resources
+C:\Users\deniz\Desktop\Deniz\deniz\deniz\obj\Debug\deniz.Properties.Resources.resources
+C:\Users\deniz\Desktop\Deniz\deniz\deniz\obj\Debug\deniz.csproj.GenerateResource.cache
+C:\Users\deniz\Desktop\Deniz\deniz\deniz\obj\Debug\deniz.csproj.CoreCompileInputs.cache
+C:\Users\deniz\Desktop\Deniz\deniz\deniz\obj\Debug\deniz.exe
+C:\Users\deniz\Desktop\Deniz\deniz\deniz\obj\Debug\deniz.pdb
+C:\Users\Ceso\Desktop\proje\deniz\obj\Debug\deniz.csprojAssemblyReference.cache
+C:\Users\Ceso\Desktop\proje\deniz\obj\Debug\deniz.csproj.GenerateResource.cache
+C:\Users\Ceso\Desktop\proje\deniz\obj\Debug\deniz.csproj.CoreCompileInputs.cache
+C:\Users\Ceso\Desktop\proje\deniz\obj\Debug\deniz.Anasayfa.resources
+C:\Users\Ceso\Desktop\proje\deniz\obj\Debug\deniz.Hazirlayanlar.resources
+C:\Users\Ceso\Desktop\proje\deniz\obj\Debug\deniz.Eslestirme.resources
+C:\Users\Ceso\Desktop\proje\deniz\obj\Debug\deniz.AdSoyadTest.resources
+C:\Users\Ceso\Desktop\proje\deniz\obj\Debug\deniz.Test.resources
+C:\Users\Ceso\Desktop\proje\deniz\obj\Debug\deniz.BoslukDoldurma.resources
+C:\Users\deniz\Desktop\Hakan hoca\proje\deniz\bin\Debug\deniz.exe.config
+C:\Users\deniz\Desktop\Hakan hoca\proje\deniz\bin\Debug\deniz.exe
+C:\Users\deniz\Desktop\Hakan hoca\proje\deniz\bin\Debug\deniz.pdb
+C:\Users\deniz\Desktop\Hakan hoca\proje\deniz\obj\Debug\deniz.csprojAssemblyReference.cache
+C:\Users\deniz\Desktop\Hakan hoca\proje\deniz\obj\Debug\deniz.Anasayfa.resources
+C:\Users\deniz\Desktop\Hakan hoca\proje\deniz\obj\Debug\deniz.BoslukDoldurma.resources
+C:\Users\deniz\Desktop\Hakan hoca\proje\deniz\obj\Debug\deniz.Hazirlayanlar.resources
+C:\Users\deniz\Desktop\Hakan hoca\proje\deniz\obj\Debug\deniz.Eslestirme.resources
+C:\Users\deniz\Desktop\Hakan hoca\proje\deniz\obj\Debug\deniz.AdSoyadTest.resources
+C:\Users\deniz\Desktop\Hakan hoca\proje\deniz\obj\Debug\deniz.Test.resources
+C:\Users\deniz\Desktop\Hakan hoca\proje\deniz\obj\Debug\deniz.Properties.Resources.resources
+C:\Users\deniz\Desktop\Hakan hoca\proje\deniz\obj\Debug\deniz.csproj.GenerateResource.cache
+C:\Users\deniz\Desktop\Hakan hoca\proje\deniz\obj\Debug\deniz.csproj.CoreCompileInputs.cache
+C:\Users\deniz\Desktop\Hakan hoca\proje\deniz\obj\Debug\deniz.exe
+C:\Users\deniz\Desktop\Hakan hoca\proje\deniz\obj\Debug\deniz.pdb
+C:\Users\Ceso\Desktop\Hakan hoca\proje\deniz\bin\Debug\deniz.exe.config
+C:\Users\Ceso\Desktop\Hakan hoca\proje\deniz\bin\Debug\deniz.exe
+C:\Users\Ceso\Desktop\Hakan hoca\proje\deniz\bin\Debug\deniz.pdb
+C:\Users\Ceso\Desktop\Hakan hoca\proje\deniz\obj\Debug\deniz.csprojAssemblyReference.cache
+C:\Users\Ceso\Desktop\Hakan hoca\proje\deniz\obj\Debug\deniz.Anasayfa.resources
+C:\Users\Ceso\Desktop\Hakan hoca\proje\deniz\obj\Debug\deniz.BoslukDoldurma.resources
+C:\Users\Ceso\Desktop\Hakan hoca\proje\deniz\obj\Debug\deniz.Hazirlayanlar.resources
+C:\Users\Ceso\Desktop\Hakan hoca\proje\deniz\obj\Debug\deniz.Eslestirme.resources
+C:\Users\Ceso\Desktop\Hakan hoca\proje\deniz\obj\Debug\deniz.AdSoyadTest.resources
+C:\Users\Ceso\Desktop\Hakan hoca\proje\deniz\obj\Debug\deniz.Test.resources
+C:\Users\Ceso\Desktop\Hakan hoca\proje\deniz\obj\Debug\deniz.Properties.Resources.resources
+C:\Users\Ceso\Desktop\Hakan hoca\proje\deniz\obj\Debug\deniz.csproj.GenerateResource.cache
+C:\Users\Ceso\Desktop\Hakan hoca\proje\deniz\obj\Debug\deniz.csproj.CoreCompileInputs.cache
+C:\Users\Ceso\Desktop\Hakan hoca\proje\deniz\obj\Debug\deniz.exe
+C:\Users\Ceso\Desktop\Hakan hoca\proje\deniz\obj\Debug\deniz.pdb
+C:\Users\Ceso\Desktop\Hakan hoca\proje\deniz\obj\Debug\deniz.Bitis.resources
+C:\Users\deniz\Desktop\PROJEE\Hakan hoca\proje\deniz\bin\Debug\deniz.exe.config
+C:\Users\deniz\Desktop\PROJEE\Hakan hoca\proje\deniz\bin\Debug\deniz.exe
+C:\Users\deniz\Desktop\PROJEE\Hakan hoca\proje\deniz\bin\Debug\deniz.pdb
+C:\Users\deniz\Desktop\PROJEE\Hakan hoca\proje\deniz\obj\Debug\deniz.csprojAssemblyReference.cache
+C:\Users\deniz\Desktop\PROJEE\Hakan hoca\proje\deniz\obj\Debug\deniz.Anasayfa.resources
+C:\Users\deniz\Desktop\PROJEE\Hakan hoca\proje\deniz\obj\Debug\deniz.Bitis.resources
+C:\Users\deniz\Desktop\PROJEE\Hakan hoca\proje\deniz\obj\Debug\deniz.BoslukDoldurma.resources
+C:\Users\deniz\Desktop\PROJEE\Hakan hoca\proje\deniz\obj\Debug\deniz.Hazirlayanlar.resources
+C:\Users\deniz\Desktop\PROJEE\Hakan hoca\proje\deniz\obj\Debug\deniz.Eslestirme.resources
+C:\Users\deniz\Desktop\PROJEE\Hakan hoca\proje\deniz\obj\Debug\deniz.AdSoyadTest.resources
+C:\Users\deniz\Desktop\PROJEE\Hakan hoca\proje\deniz\obj\Debug\deniz.Test.resources
+C:\Users\deniz\Desktop\PROJEE\Hakan hoca\proje\deniz\obj\Debug\deniz.Properties.Resources.resources
+C:\Users\deniz\Desktop\PROJEE\Hakan hoca\proje\deniz\obj\Debug\deniz.csproj.GenerateResource.cache
+C:\Users\deniz\Desktop\PROJEE\Hakan hoca\proje\deniz\obj\Debug\deniz.csproj.CoreCompileInputs.cache
+C:\Users\deniz\Desktop\PROJEE\Hakan hoca\proje\deniz\obj\Debug\deniz.exe
+C:\Users\deniz\Desktop\PROJEE\Hakan hoca\proje\deniz\obj\Debug\deniz.pdb
+C:\Users\deniz\Desktop\PROJEE\Hakan hoca\wadwadaw\proje\deniz\obj\Debug\deniz.csprojAssemblyReference.cache
+C:\Users\deniz\Desktop\PROJEE\Hakan hoca\wadwadaw\proje\deniz\obj\Debug\deniz.Anasayfa.resources
+C:\Users\deniz\Desktop\PROJEE\Hakan hoca\wadwadaw\proje\deniz\obj\Debug\deniz.Bitis.resources
+C:\Users\deniz\Desktop\PROJEE\Hakan hoca\wadwadaw\proje\deniz\obj\Debug\deniz.BoslukDoldurma.resources
+C:\Users\deniz\Desktop\PROJEE\Hakan hoca\wadwadaw\proje\deniz\obj\Debug\deniz.Hazirlayanlar.resources
+C:\Users\deniz\Desktop\PROJEE\Hakan hoca\wadwadaw\proje\deniz\obj\Debug\deniz.Eslestirme.resources
+C:\Users\deniz\Desktop\PROJEE\Hakan hoca\wadwadaw\proje\deniz\obj\Debug\deniz.AdSoyadTest.resources
+C:\Users\deniz\Desktop\PROJEE\Hakan hoca\wadwadaw\proje\deniz\obj\Debug\deniz.Test.resources
+C:\Users\deniz\Desktop\PROJEE\Hakan hoca\wadwadaw\proje\deniz\obj\Debug\deniz.csproj.GenerateResource.cache
+C:\Users\deniz\Desktop\PROJEE\Hakan hoca\wadwadaw\proje\deniz\obj\Debug\deniz.csproj.CoreCompileInputs.cache
+C:\Users\deniz\Desktop\PROJEE\Hakan hoca\wadwadaw\proje\deniz\bin\Debug\Donanım.exe.config
+C:\Users\deniz\Desktop\PROJEE\Hakan hoca\wadwadaw\proje\deniz\bin\Debug\Donanım.exe
+C:\Users\deniz\Desktop\PROJEE\Hakan hoca\wadwadaw\proje\deniz\bin\Debug\Donanım.pdb
+C:\Users\deniz\Desktop\PROJEE\Hakan hoca\wadwadaw\proje\deniz\obj\Debug\Donanım.Properties.Resources.resources
+C:\Users\deniz\Desktop\PROJEE\Hakan hoca\wadwadaw\proje\deniz\obj\Debug\Donanım.exe
+C:\Users\deniz\Desktop\PROJEE\Hakan hoca\wadwadaw\proje\deniz\obj\Debug\Donanım.pdb
+C:\Users\Ceso\Desktop\proje\deniz\bin\Debug\Donanım.exe.config
+C:\Users\Ceso\Desktop\proje\deniz\bin\Debug\Donanım.exe
+C:\Users\Ceso\Desktop\proje\deniz\bin\Debug\Donanım.pdb
+C:\Users\Ceso\Desktop\proje\deniz\obj\Debug\deniz.Bitis.resources
+C:\Users\Ceso\Desktop\proje\deniz\obj\Debug\Donanım.Properties.Resources.resources
+C:\Users\Ceso\Desktop\proje\deniz\obj\Debug\Donanım.exe
+C:\Users\Ceso\Desktop\proje\deniz\obj\Debug\Donanım.pdb
+C:\Users\deniz\Desktop\Yen,ii\proje\deniz\bin\Debug\Donanım.exe.config
+C:\Users\deniz\Desktop\Yen,ii\proje\deniz\bin\Debug\Donanım.exe
+C:\Users\deniz\Desktop\Yen,ii\proje\deniz\bin\Debug\Donanım.pdb
+C:\Users\deniz\Desktop\Yen,ii\proje\deniz\obj\Debug\deniz.csprojAssemblyReference.cache
+C:\Users\deniz\Desktop\Yen,ii\proje\deniz\obj\Debug\deniz.Anasayfa.resources
+C:\Users\deniz\Desktop\Yen,ii\proje\deniz\obj\Debug\deniz.Bitis.resources
+C:\Users\deniz\Desktop\Yen,ii\proje\deniz\obj\Debug\deniz.BoslukDoldurma.resources
+C:\Users\deniz\Desktop\Yen,ii\proje\deniz\obj\Debug\deniz.Hazirlayanlar.resources
+C:\Users\deniz\Desktop\Yen,ii\proje\deniz\obj\Debug\deniz.Eslestirme.resources
+C:\Users\deniz\Desktop\Yen,ii\proje\deniz\obj\Debug\deniz.AdSoyadTest.resources
+C:\Users\deniz\Desktop\Yen,ii\proje\deniz\obj\Debug\deniz.Test.resources
+C:\Users\deniz\Desktop\Yen,ii\proje\deniz\obj\Debug\Donanım.Properties.Resources.resources
+C:\Users\deniz\Desktop\Yen,ii\proje\deniz\obj\Debug\deniz.csproj.GenerateResource.cache
+C:\Users\deniz\Desktop\Yen,ii\proje\deniz\obj\Debug\deniz.csproj.CoreCompileInputs.cache
+C:\Users\deniz\Desktop\Yen,ii\proje\deniz\obj\Debug\Donanım.exe
+C:\Users\deniz\Desktop\Yen,ii\proje\deniz\obj\Debug\Donanım.pdb
